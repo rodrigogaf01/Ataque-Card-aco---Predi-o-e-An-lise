@@ -1,4 +1,4 @@
-# Ataque-Card-aco---Predi-o-e-An-lise
+# Ataque-Cardiaco--Predicao-e-Analise
 
 O infarto está entre as principais causas de morte no Brasil e no mundo e, por ano, mais de 100 mil brasileiros morrem em decorrência dele, o que equivale a dois estádios do Arena Fonte Nova, em Salvador, lotados em sua capacidade.
 
